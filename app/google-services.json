@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "920747235292",
+    "project_id": "sensbox-iot",
+    "storage_bucket": "sensbox-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920747235292:android:2864247a560df37defa119",
+        "android_client_info": {
+          "package_name": "com.sensbox.sensboxiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920747235292-slhc28vklb3ist98osumt3lu0nal9r46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sensbox.sensboxiot",
+            "certificate_hash": "ed749ab43559f5d342c4c0716f65e641f82ecf94"
+          }
+        },
+        {
+          "client_id": "920747235292-aaigonb4lj3ouscbpkeq9tqnvknr964b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHhOEWB0u3fdQS-i1BD3Ko_723POrTuSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920747235292-aaigonb4lj3ouscbpkeq9tqnvknr964b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
